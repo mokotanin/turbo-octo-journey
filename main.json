@@ -1,0 +1,10 @@
+{
+  "name": "mhm OK",
+  "author": "nooBy",
+  "version": "1.0.0",
+  "manifestVersion": 1,
+  "entry": "main.js",
+  "description": "ceci est un test",
+  "id": "mes-animes",
+  "type": "anime"
+}
